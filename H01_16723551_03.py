@@ -1,3 +1,7 @@
+# NIM/Nama : 16723551/ Jehanifa Taufiq Alea
+# Tanggal : 28 Februari 2024
+# Deskripsi : Pengerjaan soal TP pertama tentang input dan percabangan
+
 tas_a = float(input("Masukkan berat tas A: "))
 tas_b = float(input("Masukkan berat tas B: "))
 tas_c = float(input("Masukkan berat tas C: "))
